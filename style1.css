@@ -108,3 +108,39 @@
 
 
 }
+.span{
+    font-weight: lighter;
+    font-size: xxx-large;
+    color: #929292;
+    letter-spacing: 5px;
+}
+@media only screen and (max-width: 700px) {
+    .text{
+        margin-left: 100px;
+        
+    }
+    .box{display: block;
+        left:50px
+
+    }
+    .text2{
+        margin-top:30px;
+        margin-left: 40% ;
+        color:palevioletred;
+    }
+    .icon{
+        top:235px ;
+        left: 37%;
+        display: none;
+    }
+    .span{
+        letter-spacing: 0px;
+        margin-left: 22px;
+    }
+    #additem{
+        width: 250px;
+        left: 15%;
+    }
+
+    
+}

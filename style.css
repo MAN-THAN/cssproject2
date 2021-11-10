@@ -106,3 +106,31 @@
 
 
 }
+@media screen and (max-width: 700px) {
+    .line1{
+        display: none;
+    }
+    .line2{
+        display: none;
+    }
+    .box{
+        width: 200px;
+        margin-left: 22%;
+    }
+    
+    #line3{
+        margin-left: 21px;
+        width: 180px;
+    }
+    .icon{
+        left: 40%;
+    }
+    #icon2{
+        margin-top: 105px;
+    }
+    #additem{
+        width: 280px;
+        left: 11%;
+    }
+    
+}

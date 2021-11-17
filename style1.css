@@ -108,7 +108,7 @@
 }
 
 #blur{
-    filter: blur(9px);
+    filter: blur(10px);
 }
 #additem{
     border: 2px solid #F298B1;

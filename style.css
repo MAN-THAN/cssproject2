@@ -3,12 +3,12 @@
     font-size: xx-large;
     font-weight: bold;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 5.6%;
     
 }
 .text2{
     
-    margin-top: 36px;
+    margin-top: 5.5vh;
     margin-left: 50%;
     font-family: sans-serif;
     color: #6F6F6F;
@@ -32,8 +32,8 @@
     background:#6F6F6F;
     display: inline-block;
     position: absolute;
-    top: 100px;
-    left: 300px;
+    top: 16vh;
+    left: 24vw;
     
     
 }
@@ -44,8 +44,8 @@
     display: inline-block;
     
     position: absolute;
-    top: 100px;
-    left: 750px;
+    top: 16vh;
+    left: 63vw;
     
 
 
@@ -54,7 +54,7 @@
 .icon{
     color: #F43B3B;
     position: absolute;
-    top: 155px;
+    top: 24%;
     left: 46%;
     font-size: x-large;
 }
@@ -89,7 +89,7 @@
     color: #F43B3B;
 }
 #blur{
-    filter: blur(9px);
+    filter: blur(13px);
 }
 #additem{
     border: 2px solid #F298B1;
@@ -116,12 +116,14 @@
     }
     .box{
         width: 240px;
-        margin-left: 17%;
-        height: 340px;
+        margin-left: 15%;
+        height: 370px;
         border-radius: 8px;
+        margin-top: 17%;
     }
     .text{
         margin-left: 0px;
+        margin-top: 15%;
     }
     .text2{
         display: none;
@@ -134,15 +136,16 @@
     }
     .icon{
         left: 4%;
-        top: 13%;
+        top: 10%;
     }
     #icon2{
-        margin-top: 105px;
+        margin-top: 135px;
         margin-left: 160px;
     }
     #additem{
         width: 250px;
         left: 14%;
+        top: 35%;
     }
     #tp{
         font-size: large;
